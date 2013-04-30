@@ -1,0 +1,175 @@
+0
+C104
+Windows
+Student
+Hunter North
+3
+302
+Windows
+Student
+Hunter North
+4
+431
+Mac OS X
+Student
+Hunter North
+4
+432
+Windows
+Student
+Hunter North
+4
+470
+Windows
+Student
+Hunter North
+5
+503
+Mac OS X
+Student
+Hunter North
+5
+544
+Mac OS X
+Student
+Hunter North
+6
+614
+Windows
+Student
+Hunter North
+10
+1001A
+Windows
+Student
+Hunter North
+10
+1001B
+Mac OS X
+Student
+Hunter North
+10
+1001C
+Windows
+Student
+Hunter North
+10
+1001D
+Windows
+Student
+Hunter North
+10
+1001E
+Windows
+Student
+Hunter North
+10
+1001F
+Mac OS X
+Student
+Hunter North
+10
+1000G
+Linux
+Student
+Hunter North
+10
+11005
+Mac OS X
+Student
+Hunter North
+10
+1000C
+Windows 
+Student
+Hunter North
+10
+1090
+Windows
+Student
+Hunter North
+12
+1209
+Windows
+Student
+Hunter North
+4
+405
+Windows
+Student
+Tom Hunter
+4
+420
+Windows
+Faculty
+Tom Hunter
+0
+B1 Main
+Windows
+Student
+Hunter East
+1
+1 Main
+Windows 
+Student
+Hunter East
+1
+Classroom Lab 
+Windows
+Student
+Hunter East
+3
+3 Main
+Windows 
+Student
+Hunter East
+3
+3 Lab
+Windows
+Student
+Hunter East 
+4
+4 Main
+Windows
+Student
+Hunter East
+7
+7 Main
+Windows
+Student
+Hunter East
+9
+903
+Windows
+Student
+Hunter East
+10
+1002
+Windows
+Student
+Hunter East
+2
+209
+Windows
+Student
+Hunter West
+2
+209
+Windows
+Student
+Hunter West
+6
+606
+Windows
+Student
+Hunter West
+7
+708
+Mac OS X
+Student
+Hunter West
+15
+1533
+Windows
+Student
+Hunter West

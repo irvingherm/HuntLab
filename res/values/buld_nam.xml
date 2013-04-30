@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="building_name">Choose a Location</string>
+	<string-array name="building_array">
+	    <item>Hunter West</item>
+	    <item>Hunter North</item>
+	    <item>Hunter East</item>
+	    <item>Tom Hunter</item>
+	</string-array>
+    
+</resources>

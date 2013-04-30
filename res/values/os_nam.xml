@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="os_name">Choose an OS</string>
+	<string-array name="os_array">
+	    <item>Mac OS X</item>
+	    <item>Windows</item>
+	    <item>Linux</item>
+	    <item>Any</item>
+	</string-array>
+    
+</resources>

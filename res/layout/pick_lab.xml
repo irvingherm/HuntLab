@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pg1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#820BBB"
+    android:orientation="vertical" >
+    
+    <TextView android:id="@+id/Logo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="HuntLab"
+        android:gravity="center"
+        android:textColor="#FFF"
+        android:textSize="50dp"
+        android:textStyle="bold" >
+	</TextView>
+	
+    <LinearLayout android:id="@+id/space_pg1"
+        android:layout_width="fill_parent"
+        android:layout_height="30dp"
+        android:orientation="vertical" >
+    </LinearLayout>
+    
+ <!-- Start of Users -->   
+    <TextView android:id="@+id/uses"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="User Type:"
+        android:textSize="18dp"
+        android:textColor="#CCCCCC">
+    </TextView>
+     <Spinner
+         android:id="@+id/user_types"
+         android:layout_width="200dp"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:prompt="@string/users_type" >
+ 
+     </Spinner>
+<!--  Start of Location -->
+	<LinearLayout android:id="@+id/space_pg1"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:orientation="vertical" >
+    </LinearLayout>
+    <TextView android:id="@+id/loc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="left"
+        android:text="Location:"
+        android:textSize="18dp"
+        android:textColor="#CCCCCC">
+    </TextView>
+     <Spinner
+        android:id="@+id/loc_type"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:prompt="@string/building_name" >
+     </Spinner>
+     <Spinner android:id="@+id/floor_num"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:prompt="@string/fl_num" >
+     </Spinner>
+<!--  Start of OS -->
+	<LinearLayout android:id="@+id/space_pg1"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:orientation="vertical" >
+    </LinearLayout>
+	<TextView android:id="@+id/os"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:gravity="left"
+	    android:text="OS (Operating System):"
+	    android:textSize="18dp"
+	    android:textColor="#CCCCCC">
+	</TextView>
+	<Spinner android:id="@+id/os_type"
+	    android:layout_width="200dp"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center"
+	    android:prompt="@string/os_name">
+	</Spinner>
+	
+<!-- Start of Search -->
+	<LinearLayout android:id="@+id/space_pg1"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:orientation="vertical" >
+    </LinearLayout>
+    
+	<Button android:id="@+id/search"
+	    android:layout_width="180dp"
+	    android:layout_height="60dp"
+	    android:layout_gravity="center"
+	    android:text="Search"> 
+	</Button>
+	
+	</LinearLayout>
